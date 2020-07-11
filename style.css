@@ -22,7 +22,7 @@ body{
     background-size: 100%;
 }
 section{
-    height: 550px;
+    height: 600px;
     overflow: hidden;
 }
 .link-btn{
@@ -51,7 +51,7 @@ section{
 .colum img{
     width: 90%;
     height: 300px;
-    overflow: hidden;
+    
 }
 .latest-work{
     text-align: center;
@@ -89,7 +89,7 @@ footer{
     -ms-transform: scale(1.6); 
     -webkit-transform: scale(1.6); 
     transform: scale(1.6);
-    overflow: hidden;
+    
 }
   
     
