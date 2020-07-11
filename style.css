@@ -68,13 +68,12 @@ section{
     margin-left: 30%;
     border-radius: 5px;
 }
-.clint{
+.client{
     margin-top: 0;
     background-image: url("img/footer-bg.png");
     background-repeat: no-repeat;
     background-position: left;
     background-size: 100%;
-    
 }
 footer{
     text-align: center;
