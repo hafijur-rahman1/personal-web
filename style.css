@@ -51,6 +51,7 @@ section{
 .colum img{
     width: 90%;
     height: 300px;
+    overflow: hidden;
 }
 .latest-work{
     text-align: center;
@@ -87,7 +88,8 @@ footer{
 .colum:hover{
     -ms-transform: scale(1.6); 
     -webkit-transform: scale(1.6); 
-    transform: scale(1.6); 
+    transform: scale(1.6);
+    overflow: hidden;
 }
   
     
