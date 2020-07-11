@@ -38,9 +38,7 @@ section{
     background-repeat: no-repeat;
     background-size: 100%;
 }
-/* .row{
-    box-sizing: border-box;
-} */
+
 .colum{
     float: left;
     width: 31%;
@@ -51,9 +49,8 @@ section{
     width: 90%;
     height: 300px;
 }
-.special:hover{
-    image-resolution: 500%;
-}
+
+
 .latest-work{
     text-align: center;
     background-image: url("img/latest-work-bg.png");
