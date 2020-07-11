@@ -85,9 +85,9 @@ footer{
     font-size: 12px;
 }
 .colum:hover{
-    -ms-transform: scale(2.6); 
-    -webkit-transform: scale(2.6); 
-    transform: scale(2.6); 
+    -ms-transform: scale(1.6); 
+    -webkit-transform: scale(1.6); 
+    transform: scale(1.6); 
 }
   
     
