@@ -1,0 +1,98 @@
+
+body{
+    margin: 0%;
+    font-family: 'Oswald', sans-serif;
+}
+
+.name-highlight{
+    color: rgb(206, 70, 16);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 120%;
+}
+.header-part{
+    
+    background-image: url("img/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+section{
+    height: 400px;
+}
+.link-btn{
+    text-decoration: none;
+    background-image:linear-gradient(180deg,lightSalmon, tomato) ;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+}
+.bio-part{
+    background-image: url("img/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+/* .row{
+    box-sizing: border-box;
+} */
+.colum{
+    float: left;
+    width: 31%;
+    padding: 5px;
+    height: 100%;
+}
+.colum img{
+    width: 90%;
+    height: 300px;
+}
+.special:hover{
+    image-resolution: 500%;
+}
+.latest-work{
+    text-align: center;
+    background-image: url("img/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 100%;
+}
+.say{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.last{
+    text-align: center;
+    background-color: salmon;
+    width: 300px;
+    height: 70px;
+    border: 1px solid salmon;
+    padding: 25px;
+    margin-left: 30%;
+    border-radius: 5px;
+}
+.clint{
+    margin-top: 0;
+    background-image: url("img/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 100%;
+    
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+}
+.colum:hover{
+    -ms-transform: scale(2.6); 
+    -webkit-transform: scale(2.6); 
+    transform: scale(2.6); 
+}
+  
+    
+
+
