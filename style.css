@@ -22,7 +22,8 @@ body{
     background-size: 100%;
 }
 section{
-    height: 400px;
+    height: 550px;
+    overflow: hidden;
 }
 .link-btn{
     text-decoration: none;
@@ -36,6 +37,9 @@ section{
     background-image: url("img/biography-bg.png");
     background-repeat: no-repeat;
     background-size: 100%;
+}
+.bio-part .half-width h1 {
+    padding-top: 190px;
 }
 
 .colum{
